@@ -13,3 +13,5 @@ Ici je mets un [lien](www-unige.ch)
 ici je <balise>mets</balise>
 
 je peux utiliser du <span style="color:red">rouge</span>
+
+Je test la branche sur laquelle je suis
